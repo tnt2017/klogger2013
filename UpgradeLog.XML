@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="GlobalHookDemo">
+</Property><Property Name="Файл решения" Value="H:\globalhook_src\GlobalHookDemo.sln">
+</Property><Property Name="Date" Value="21 февраля 2009 г.">
+</Property><Property Name="Time" Value="21:44">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="GlobalHookDemo.sln" Description="Успешно создана резервная копия файла H:\globalhook_src\Backup\GlobalHookDemo.sln">
+</Event><Event ErrorLevel="0" Project="GlobalHookDemo" Source="GlobalHookDemo.csproj" Description="Успешно создана резервная копия файла проекта: H:\globalhook_src\Backup\GlobalHookDemo.csproj">
+</Event><Event ErrorLevel="0" Project="GlobalHookDemo" Source="AssemblyInfo.cs" Description="Успешно создана резервная копия файла H:\globalhook_src\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="GlobalHookDemo" Source="MainForm.cs" Description="Успешно создана резервная копия файла H:\globalhook_src\Backup\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="GlobalHookDemo" Source="UserActivityHook.cs" Description="Успешно создана резервная копия файла H:\globalhook_src\Backup\UserActivityHook.cs">
+</Event><Event ErrorLevel="0" Project="GlobalHookDemo" Source="MainForm.resx" Description="Успешно создана резервная копия файла H:\globalhook_src\Backup\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="GlobalHookDemo" Source="GlobalHookDemo.csproj" Description="Проект успешно преобразован">
+</Event><Event ErrorLevel="3" Project="GlobalHookDemo" Source="GlobalHookDemo.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="GlobalHookDemo.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="GlobalHookDemo.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GlobalHookDemo" Source="GlobalHookDemo.csproj" Description="Сканирование завершено: обновление для файлов проекта не требуется.">
+</Event></UpgradeLog>

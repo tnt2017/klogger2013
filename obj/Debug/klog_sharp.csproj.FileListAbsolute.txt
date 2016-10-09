@@ -1,0 +1,17 @@
+C:\Users\Администратор\Desktop\globalhook_src\globalhook_src\bin\Debug\KLog2013.xml
+C:\Users\Администратор\Desktop\globalhook_src\globalhook_src\bin\Debug\KLog2013.exe
+C:\Users\Администратор\Desktop\globalhook_src\globalhook_src\bin\Debug\KLog2013.pdb
+C:\Users\Администратор\Desktop\globalhook_src\globalhook_src\obj\Debug\klog_sharp.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\globalhook_src\globalhook_src\obj\Debug\GlobalHookDemo.MainForm.resources
+C:\Users\Администратор\Desktop\globalhook_src\globalhook_src\obj\Debug\GlobalHookDemo.Properties.Resources.resources
+C:\Users\Администратор\Desktop\globalhook_src\globalhook_src\obj\Debug\klog_sharp.csproj.GenerateResource.Cache
+C:\Users\Администратор\Desktop\globalhook_src\globalhook_src\obj\Debug\KLog2013.exe
+C:\Users\Администратор\Desktop\globalhook_src\globalhook_src\obj\Debug\KLog2013.pdb
+G:\Projects2013\Klog2013\obj\Debug\GlobalHookDemo.MainForm.resources
+G:\Projects2013\Klog2013\obj\Debug\GlobalHookDemo.Properties.Resources.resources
+G:\Projects2013\Klog2013\obj\Debug\klog_sharp.csproj.GenerateResource.Cache
+G:\Projects2013\Klog2013\obj\Debug\KLog2013.exe
+G:\Projects2013\Klog2013\bin\Debug\KLog2013.xml
+G:\Projects2013\Klog2013\bin\Debug\KLog2013.exe
+G:\Projects2013\Klog2013\bin\Debug\KLog2013.pdb
+G:\Projects2013\Klog2013\obj\Debug\KLog2013.pdb

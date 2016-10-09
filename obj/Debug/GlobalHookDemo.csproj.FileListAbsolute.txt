@@ -1,0 +1,17 @@
+H:\globalhook_src\bin\Debug\GlobalHookDemo.XML
+H:\globalhook_src\bin\Debug\GlobalHookDemo.exe
+H:\globalhook_src\bin\Debug\GlobalHookDemo.pdb
+H:\globalhook_src\obj\Debug\ResolveAssemblyReference.cache
+H:\globalhook_src\obj\Debug\GlobalHookDemo.MainForm.resources
+H:\globalhook_src\obj\Debug\GlobalHookDemo.csproj.GenerateResource.Cache
+H:\globalhook_src\obj\Debug\GlobalHookDemo.exe
+H:\globalhook_src\obj\Debug\GlobalHookDemo.pdb
+C:\Users\Администратор\Desktop\globalhook_src\globalhook_src\bin\Debug\GlobalHookDemo.XML
+C:\Users\Администратор\Desktop\globalhook_src\globalhook_src\bin\Debug\GlobalHookDemo.exe
+C:\Users\Администратор\Desktop\globalhook_src\globalhook_src\bin\Debug\GlobalHookDemo.pdb
+C:\Users\Администратор\Desktop\globalhook_src\globalhook_src\obj\Debug\GlobalHookDemo.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\globalhook_src\globalhook_src\obj\Debug\GlobalHookDemo.MainForm.resources
+C:\Users\Администратор\Desktop\globalhook_src\globalhook_src\obj\Debug\GlobalHookDemo.csproj.GenerateResource.Cache
+C:\Users\Администратор\Desktop\globalhook_src\globalhook_src\obj\Debug\GlobalHookDemo.exe
+C:\Users\Администратор\Desktop\globalhook_src\globalhook_src\obj\Debug\GlobalHookDemo.pdb
+C:\Users\Администратор\Desktop\globalhook_src\globalhook_src\obj\Debug\GlobalHookDemo.Properties.Resources.resources
